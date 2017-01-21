@@ -548,6 +548,10 @@ input[type="submit"] {
     display: inline-block;
     padding: 30px 20px 10px 0;
 }
+.footer-nav a:hover {
+	color: lightgrey;
+	text-decoration: underline;
+}
 .copyright {
     font-family: Hind, Arial, sans-serif;
     font-size: 13px;
