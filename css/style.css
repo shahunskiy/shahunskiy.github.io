@@ -171,7 +171,7 @@ a.bag:hover {
     width: 580px;
     height: 580px;
     overflow: hidden;
-    background-image: url("../images/images.jpg.");
+    background-image: url("../images/images.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
